@@ -14,6 +14,9 @@ Given a sentence as input, print each word of the sentence on a new line.
 My Name Is C
 ### Sample Output
 My
+
 Name
+
 Is
+
 C
